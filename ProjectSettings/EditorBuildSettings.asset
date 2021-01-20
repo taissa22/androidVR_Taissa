@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Castle.unity
+    guid: 8e775a5dc3e720b48ae1da5e57e9730d
+  - enabled: 1
+    path: Assets/Scenes/FPS.unity
+    guid: 1c7909a11db197a498e3917317661850
   m_configObjects: {}
